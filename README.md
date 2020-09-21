@@ -1,6 +1,9 @@
 # webFun_basicFoundation
 Coding Dojo assignment
 
+# heading 1
+## heading 2
+
 
 Basic Foundation I
 Objectives
