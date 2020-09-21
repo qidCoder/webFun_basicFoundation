@@ -1,11 +1,8 @@
 # webFun_basicFoundation
 Coding Dojo assignment
 
-# heading 1
-## heading 2
 
-
-Basic Foundation I
+# Basic Foundation I
 Objectives
 Get comfortable with basic for loops, if/else statements, and functions.
 Get comfortable building basic algorithms in preparation for the Python track
