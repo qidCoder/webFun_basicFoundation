@@ -2,7 +2,7 @@
 Coding Dojo assignment
 
 
-# Basic Foundation I
+## Basic Foundation I
 Objectives
 Get comfortable with basic for loops, if/else statements, and functions.
 Get comfortable building basic algorithms in preparation for the Python track
